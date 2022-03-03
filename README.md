@@ -1,8 +1,8 @@
 # 2D_Game
-The source code of the 2D game for CodeFlow (Junior Hackathon)
+The source files / code of "Escape the Cave" (2D game project for CodeFlow | Junior Hackathon)
 
-Tools used: Unity Game Engine and C#
+Tools used: Unity Game Engine, C# and Photoshop
 
-The link for the game:
+Play / Download the game:
 
-Done by Yousuff Fahim (Junior Category) from Amal International School
+Done by Yousuff Fahim from Amal International School
